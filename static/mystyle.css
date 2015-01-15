@@ -1,0 +1,27 @@
+body{
+		background-color: #f7f7f7;
+}
+
+h1{
+		font-family: "Times New Roman";
+		font-style: italic;
+}
+
+
+h4{
+	padding-top: 20px; 
+}
+
+#self-pic{
+	border-style: groove;
+	border-width: 1px;
+}
+
+
+.picture{
+	padding-left: 10px;
+}
+
+.intros{
+	padding-left: 10px;
+}
