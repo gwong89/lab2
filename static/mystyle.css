@@ -1,3 +1,6 @@
+
+
+
 body{
 		background-color: #f7f7f7;
 }
@@ -9,7 +12,8 @@ h1{
 
 
 h4{
-	padding-top: 20px; 
+	padding-top: 20px;
+ 
 }
 
 #self-pic{
@@ -24,4 +28,9 @@ h4{
 
 .intros{
 	padding-left: 10px;
+}
+
+
+.iconrow{
+	padding-top: 10px;
 }
